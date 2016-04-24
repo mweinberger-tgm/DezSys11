@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DezSys11 Weinb 5BHIT</string>
+
+    <string name="prompt_email">Email-Adresse</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_register">Registrieren</string>
+    <string name="action_sign_in">Login</string>
+    <string name="error_invalid_email">Falsche Email-Adresse</string>
+    <string name="error_invalid_password">Das Passwort ist zu kurz</string>
+    <string name="error_incorrect_password">Das Passwort ist falsch</string>
+    <string name="error_field_required">Dieses Feld ist erforderlich</string>
+    <string name="permission_rationale">"Lorem ipsum dolor sit amet."
+    </string>
+    <string name="title_activity_register">Registrieren</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login_message">Erfolgreich angemeldet</string>
+</resources>
